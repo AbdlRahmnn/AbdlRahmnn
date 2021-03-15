@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdlRahmnn
-- 👀 I’m interested in full stack appkication development
+- 👀 I’m interested in full stack application development
 - 🌱 I’m currently learning TypeScript 
 - 💞️ I’m looking to collaborate on any javascript/typescript applications (Node (Express), Vue, React).
 
