@@ -2,7 +2,7 @@
 
 > Full Stack Engineer & Data Engineering Enthusiast | Tech Lead | Architecture Designer
 
-I'm a passionate Full Stack Engineer with extensive experience in building scalable, distributed systems and data-driven applications. With a proven track record of delivering end-to-end solutions across multiple startups.<!--, I specialize in architecting robust payment systems and creating innovative technical solutions. -->
+Passionate Full Stack Engineer with extensive experience in building scalable, distributed systems and data-driven applications. With a proven track record of delivering end-to-end solutions across multiple startups.<!--, I specialize in architecting robust payment systems and creating innovative technical solutions. -->
 
 ## 🚀 What I Do
 
