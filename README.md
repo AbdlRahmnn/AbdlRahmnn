@@ -62,7 +62,7 @@ Passionate Full Stack Engineer with extensive experience in building scalable, d
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdlrahmnn)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/abdlrahmnn)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/abdl_rahmnn)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://abdlrahmnn.github.io)
 
 
