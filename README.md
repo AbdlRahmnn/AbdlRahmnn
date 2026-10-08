@@ -10,56 +10,35 @@
 </div>
 
 <a href="https://github.com/abdlrahmnn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;I+build+products%2C+not+just+features;Complex+problems+%E2%86%92+simple+systems;Currently+thinking+in+Go+%F0%9F%90%B9" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Software+Craftsman+%C2%B7+Systems+Architect+%C2%B7+Product+Builder;I+build+products%2C+not+just+features;Complex+problems+%E2%86%92+simple+systems;Currently+thinking+in+Go+%F0%9F%90%B9" alt="Typing intro" />
 </a>
 
 </div>
 
 ---
+
 ```console
 abdul@github:~$ whoami
-Mohammed Abdul Rahman · Senior Software Engineer
+Mohammed Abdul Rahman
 
 abdul@github:~$ uptime
-up 8+ years · M.Tech in Computer Science
+up 8+ years · Master's in Computer Science
 
 abdul@github:~$ cat ~/.motivation
-I love building products — and the problems that don't fit
-on a single whiteboard. The more moving parts, the better.
+I love building products and untangling complex systems.
+The best solutions make the hard parts feel simple.
 
 abdul@github:~$ ls ~/worlds-explored/
 fintech/  edtech/  healthtech/  ai/  saas/  ...and 10+ products along the way
 ```
 
-```go
-package main
-
-type Engineer struct {
-    Name       string
-    Role       string
-    Experience string
-    Education  string
-    Loves      []string
-    Speaks     []string
-    Motto      string
-}
-
-var me = Engineer{
-    Name:       "Mohammed Abdul Rahman",
-    Role:       "Senior Software Engineer",
-    Experience: "8+ years and counting",
-    Education:  "M.Tech, Computer Science",
-    Loves:      []string{"building products", "untangling complex systems", "a well-named function"},
-    Speaks:     []string{"Go", "Python", "TypeScript", "Ruby"},
-    Motto:      "Make the hard parts invisible to the user.",
-}
-```
-
 ## 🧩 What drives me
 
-I love **building products**: the whole journey from a fuzzy idea on a whiteboard to something real people rely on every day. Over the years I've worked across a wide range of domains, and the part that keeps pulling me in is the same everywhere: **complex systems with lots of moving parts**, where business rules, scale and edge cases all collide.
+I love **building products** — the whole journey from a fuzzy idea on a whiteboard to something real people rely on every day.
 
-That's where I like to be: designing the architecture, simplifying the messy bits, and shipping something that just works.
+Over the years, I've worked across different domains, but the problems that keep me interested are remarkably similar: **complex systems with lots of moving parts**, where business rules, scale, reliability, and edge cases all collide.
+
+That's where I enjoy working — designing architectures, untangling complexity, and building systems that are simple to use and boring to operate.
 
 ## 💡 Things I believe
 
@@ -67,7 +46,7 @@ That's where I like to be: designing the architecture, simplifying the messy bit
 >
 > **Edge cases are the product.** The happy path is just where you start.
 >
-> **Simple beats clever.** Especially at 7 a.m.
+> **Simple beats clever.** Especially during an incident.
 
 ## 🧰 Toolbox
 
@@ -81,21 +60,22 @@ That's where I like to be: designing the architecture, simplifying the messy bit
   <img src="https://skillicons.dev/icons?i=rails,django,fastapi,nodejs,react&theme=dark" alt="Frameworks" />
 </p>
 
-#### Database
+#### Databases & Messaging
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,dynamodb&theme=dark" alt="Data" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,dynamodb&theme=dark" alt="Databases and messaging" />
 </p>
 
-#### Cloud & Infra
+#### Cloud & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions&theme=dark" alt="Cloud and infra" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions&theme=dark" alt="Cloud and infrastructure" />
 </p>
 
 ## 🔭 Right now
 
 - 🏗️ Building and scaling distributed systems
 - 🤖 Exploring how LLMs fit into real products beyond the demo
-- 🌱 Always learning, always refactoring
+- 🔍 Exploring system architecture, reliability, and design trade-offs
+- 🌱 Learning, experimenting, and refining my craft
 
 ## 📫 Let's talk
 
@@ -108,8 +88,3 @@ Happy to chat about product ideas, system design, or that one bug that only show
 <div align="center">
   <sub>⚡ Thanks for stopping by!</sub>
 </div>
-
-<!---
-AbdlRahmnn/AbdlRahmnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
