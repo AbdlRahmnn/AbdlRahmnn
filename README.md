@@ -1,71 +1,113 @@
-# 👋 Hi there! I'm Abdul Rahman
 
-> Full Stack Engineer & Data Engineering Enthusiast | Tech Lead | Architecture Designer
+<div align="center">
 
-Passionate Full Stack Engineer with extensive experience in building scalable, distributed systems and data-driven applications. With a proven track record of delivering end-to-end solutions across multiple startups.<!--, I specialize in architecting robust payment systems and creating innovative technical solutions. -->
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Hey, I'm Abdul Rahman 👋</h1>
+    </summary>
+  </ul>
+</div>
 
-## 🚀 What I Do
+<a href="https://github.com/abdlrahmnn">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Senior+Software+Engineer;I+build+products%2C+not+just+features;Complex+problems+%E2%86%92+simple+systems;Currently+thinking+in+Go+%F0%9F%90%B9" alt="Typing intro" />
+</a>
 
-- Develop globally scalable subscription-based payment systems
-- Lead technical teams in delivering complex projects
-- Architect cloud-native applications with focus on serverless
-- Implement end-to-end automated testing strategies
-- Orchestrate containerized applications using Kubernetes
-<!-- - Create efficient data pipelines and engineering solutions -->
+</div>
 
-## 💻 Tech Stack
+---
+```console
+abdul@github:~$ whoami
+Mohammed Abdul Rahman · Senior Software Engineer
 
-### Languages
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+abdul@github:~$ uptime
+up 8+ years · M.Tech in Computer Science
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+abdul@github:~$ cat ~/.motivation
+I love building products — and the problems that don't fit
+on a single whiteboard. The more moving parts, the better.
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+abdul@github:~$ ls ~/worlds-explored/
+fintech/  edtech/  healthtech/  ai/  saas/  ...and 10+ products along the way
+```
 
-## 🌟 Key Achievements
+```go
+package main
 
-- Architected and implemented globally distributed payment systems
-- Led multiple successful POC developments for startups
-- Developed robust CI/CD pipelines for automated testing and deployment
-- Created scalable serverless architectures on AWS
-- Implemented comprehensive mobile and web test automation frameworks
-<!-- - Managed large-scale Kubernetes clusters for microservices deployment -->
+type Engineer struct {
+    Name       string
+    Role       string
+    Experience string
+    Education  string
+    Loves      []string
+    Speaks     []string
+    Motto      string
+}
 
-## 🔍 Current Focus
+var me = Engineer{
+    Name:       "Mohammed Abdul Rahman",
+    Role:       "Senior Software Engineer",
+    Experience: "8+ years and counting",
+    Education:  "M.Tech, Computer Science",
+    Loves:      []string{"building products", "untangling complex systems", "a well-named function"},
+    Speaks:     []string{"Go", "Python", "TypeScript", "Ruby"},
+    Motto:      "Make the hard parts invisible to the user.",
+}
+```
 
-- Exploring AI/ML applications in production systems
-- Developing scalable data engineering solutions
-- Contributing to open-source projects
-<!-- - Mentoring and leading technical teams -->
+## 🧩 What drives me
 
-<!-- ## 📈 GitHub Stats
+I love **building products**: the whole journey from a fuzzy idea on a whiteboard to something real people rely on every day. Over the years I've worked across a wide range of domains, and the part that keeps pulling me in is the same everywhere: **complex systems with lots of moving parts**, where business rules, scale and edge cases all collide.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdlrahmnn&show_icons=true&theme=dracula) -->
+That's where I like to be: designing the architecture, simplifying the messy bits, and shipping something that just works.
 
-## 🤝 Let's Connect!
+## 💡 Things I believe
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdlrahmnn)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/abdl_rahmnn)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://abdlrahmnn.github.io)
+> **Good systems are boring to operate.** The excitement belongs in the product, not the pager.
+>
+> **Edge cases are the product.** The happy path is just where you start.
+>
+> **Simple beats clever.** Especially at 7 a.m.
 
+## 🧰 Toolbox
 
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js,ruby&theme=dark" alt="Languages" />
+</p>
+
+#### Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rails,django,fastapi,nodejs,react&theme=dark" alt="Frameworks" />
+</p>
+
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,dynamodb&theme=dark" alt="Data" />
+</p>
+
+#### Cloud & Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions&theme=dark" alt="Cloud and infra" />
+</p>
+
+## 🔭 Right now
+
+- 🏗️ Building and scaling distributed systems
+- 🤖 Exploring how LLMs fit into real products beyond the demo
+- 🌱 Always learning, always refactoring
+
+## 📫 Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdlrahmnn)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdl_rahmnn)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdlrahmnn@gmail.com)
+
+Happy to chat about product ideas, system design, or that one bug that only shows up on Tuesdays.
+
+<div align="center">
+  <sub>⚡ Thanks for stopping by!</sub>
+</div>
 
 <!---
 AbdlRahmnn/AbdlRahmnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
